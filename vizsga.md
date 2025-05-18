@@ -46,6 +46,8 @@ Az információs infrastruktúra és technológia szabályozása magában foglal
 > [!WARNING] 
 > Új jegyzet, de nem vagyok benne biztos, hogy ide ez kell.
 
+---
+
 # 4. Ismertesse a személyes adatok kategóriáit!
 A személyes adat minden olyan információ, amely valamely azonosított vagy azonosítható élő személlyel kapcsolatos. Mindazon információk, amelyek összegyűjtése egy bizonyos személy azonosításához vezethet, ugyancsak személyes adatnak minősülnek.
 ### Példák személyes adatokra:
@@ -212,7 +214,8 @@ A digitális tanusítvány egy elektronikus dokumentum, amely hitelesíti egy en
 ---
 
 # 18. Hogyan működik a HTTPS protokoll (lépések)?
-A HTTPS a HTTP biztonságos változata, amely titkosítást használ a webböngésző és a webszerver közötti kommunikáció védelmére.
+A HTTPS a HTTP biztonságos változata, amely titkosítást használ a webböngésző és a webszerver közötti kommunikáció védelmére.
+
 
 ### Lépések
 - Kapcsolatfelvétel: A kliens (böngésző) kapcsolatot kér a szerverrel a 443-as porton.
